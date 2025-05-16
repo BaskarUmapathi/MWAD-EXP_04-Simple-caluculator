@@ -158,9 +158,8 @@ export default App;
 ```
 
 ## OUTPUT
-![Screenshot 2025-05-16 163249](https://github.com/user-attachments/assets/e55db35e-c7ff-4d79-acaa-985352e65a9f)
+![Screenshot 2025-05-16 164041](https://github.com/user-attachments/assets/a7f693a1-f601-45c0-ade2-0981c6d6eb39)
 ![Screenshot 2025-05-16 163303](https://github.com/user-attachments/assets/fca3738f-c3d6-4385-91c4-2120b1895bcc)
-
 
 ## RESULT
 The program for developing a simple calculator in React.js is executed successfully.
